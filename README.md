@@ -37,8 +37,7 @@
 ### [Charlotte Python Meetup group](https://www.meetup.com/python-charlotte/)
 * Organizer for the monthly, in-person Python meetup group in Charlotte, NC
 
-### Other websites
-
+## Other websites
 * [Personal blog - Gil's LotD!](https://gilslotd.com/blog)
 * [Academic Decathlon Scores and Information Center](https://acadecscores.gilslotd.com/wiki/Main_Page) - webmaster since its inception in 2007
 
