@@ -28,18 +28,21 @@
 ### [CLT Pet Watch](https://github.com/dgilman/petwatch)
 * Implemented a web scraper for Charlotte-area animal shelters that tweets the newest pets in shelters. Used the Python, lxml and SQLite3 technologies.
 
+### [py-wikimarkup](https://github.com/dgilman/py-wikimarkup)
+* Co-maintainer. Did ongoing maintenance on the library including the Python 2 to 3 transition.
+
 ### [berimbau](https://github.com/dgilman/berimbau)
 * File system browser written in the Flask web framework. Has some neat features around bandwidth usage measurement.
 
 ### [echobot](https://github.com/dgilman/echobot)
-* Python asyncio application that echoes group chat conversations between chat networks. 
+* Python asyncio application that echoes group chat conversations between chat networks.
 
 ### [Charlotte Python Meetup group](https://www.meetup.com/python-charlotte/)
 * Organizer for the monthly, in-person Python meetup group in Charlotte, NC
 
 ## Other websites
 * [Personal blog - Gil's LotD!](https://gilslotd.com/blog)
-* [Academic Decathlon Scores and Information Center](https://acadecscores.gilslotd.com/wiki/Main_Page) - webmaster since its inception in 2007
+* [Academic Decathlon Scores and Information Center](https://acadecscores.gilslotd.com/wiki/Main_Page) - webmaster of a MediaWiki installation since its inception in 2007
 
 ## Packaging work
 #### [MacPorts](https://www.macports.org/)
