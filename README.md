@@ -37,8 +37,10 @@
 ### [echobot](https://github.com/dgilman/echobot)
 * Python asyncio application that echoes group chat conversations between chat networks.
 
-### [Charlotte Python Meetup group](https://www.meetup.com/python-charlotte/)
-* Organizer for the monthly, in-person Python meetup group in Charlotte, NC
+## Writing
+* [Lessons learned porting from SQL Server to SQLite](https://gilslotd.com/blog/lessons_learned_porting_sql_server_sqlite)
+* [My criticism of dotdrop, a dotfile management system](https://gilslotd.com/blog/my_criticism_dotdrop_dotfile_management_system)
+* Author of the Wikipedia articles on the [Ridgeway gold mine](https://en.wikipedia.org/wiki/Ridgeway_Mine) and [Runza sandwich](https://en.wikipedia.org/wiki/Runza)
 
 ## Other websites
 * [Personal blog - Gil's LotD!](https://gilslotd.com/blog)
@@ -53,5 +55,5 @@
 * Resurrected the build, integrated patches got everything under version control.
 
 ## Miscellaneous work
+* Organizer for the monthly, in-person [Python meetup group](https://www.meetup.com/python-charlotte/) in Charlotte, NC
 * Moved some [number crunching](https://github.com/dgilman/pandas_stats) over to the Python Pandas library.
-* Author of the Wikipedia articles on the [Ridgeway gold mine](https://en.wikipedia.org/wiki/Ridgeway_Mine) and [Runza sandwich](https://en.wikipedia.org/wiki/Runza)
