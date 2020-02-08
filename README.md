@@ -39,6 +39,7 @@
 
 ## Writing
 * [Lessons learned porting from SQL Server to SQLite](https://gilslotd.com/blog/lessons_learned_porting_sql_server_sqlite)
+* [Using SQLite with Python](https://dgilman.github.io/sqlite_python/) Presentation on SQLite internals and Python for the Charlotte Python Meetup
 * [My criticism of dotdrop, a dotfile management system](https://gilslotd.com/blog/my_criticism_dotdrop_dotfile_management_system)
 * Author of the Wikipedia articles on the [Ridgeway gold mine](https://en.wikipedia.org/wiki/Ridgeway_Mine) and [Runza sandwich](https://en.wikipedia.org/wiki/Runza)
 
@@ -47,12 +48,12 @@
 * [Academic Decathlon Scores and Information Center](https://acadecscores.gilslotd.com/wiki/Main_Page) - webmaster of a MediaWiki installation since its inception in 2007
 
 ## Packaging work
+#### [aacgain](https://github.com/dgilman/aacgain)
+* Converted the build system to CMake, got CI and CD working on Windows, MacOS X and Linux with TravisCI and Appveyor
 #### [MacPorts](https://www.macports.org/)
 * Contributor and package maintainer to the MacPorts package manager.
 #### [netatalk-debian](https://github.com/dgilman/netatalk-debian)
 * Got the Debian packaging building and publishing to GitHub via travis.ci.
-#### [aacgain](https://github.com/dgilman/aacgain)
-* Resurrected the build, integrated patches got everything under version control.
 
 ## Miscellaneous work
 * Organizer for the monthly, in-person [Python meetup group](https://www.meetup.com/python-charlotte/) in Charlotte, NC
