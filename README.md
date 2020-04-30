@@ -25,6 +25,11 @@
 * Project included a web scraping component, a data processing and statistical aggregation component and a growing, gigabyte+ SQLite database.
 * Several interesting and educational experiences with performance tuning.
 
+### [ngxinger](https://github.com/dgilman/ngxinger/)
+* A new Flask backend and Angular 9 frontend built over the old Inger database.
+* Continuous deployment set up with GitHub actions to run frontend and backend tests and lints, create a [PEX](https://github.com/pantsbuild/pex) image and a Docker container, push the container to Google Cloud and deploy to a Google Cloud Compute Engine instances on every push to master.
+* Solid test coverage on the Flask backend.
+
 ### [CLT Pet Watch](https://github.com/dgilman/petwatch)
 * Implemented a web scraper for Charlotte-area animal shelters that tweets the newest pets in shelters. Used the Python, lxml and SQLite3 technologies.
 
@@ -36,6 +41,9 @@
 
 ### [echobot](https://github.com/dgilman/echobot)
 * Python asyncio application that echoes group chat conversations between chat networks.
+
+### [Davy Crockett bot](https://github.com/dgilman/tmnt_wikipedia_bot)
+* Fork of the [Wikipedia page titles singable to the Teenage Mutant Ninja Turtles Twitter bot](https://twitter.com/wiki_tmnt) to tweet Wikipedia page titles matching the syllable stress pattern of the [theme song to the 1950s-era Davy Crockett TV series](https://www.youtube.com/watch?v=txcRQedoEyY).
 
 ## Writing
 * [Lessons learned porting from SQL Server to SQLite](https://gilslotd.com/blog/lessons_learned_porting_sql_server_sqlite)
