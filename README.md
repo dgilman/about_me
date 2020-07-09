@@ -7,6 +7,7 @@
 * Implemented a novel content generation system that gives SEO-friendly, textual content to all pages.
 * Implemented internal SEO best practices over the entire website and designed an internal SEO style guide.
 * Implemented a spreadsheet-oriented data collection and review system built on a homemade application framework on top of Python's asyncio library. Wrote asyncio wrappers for the Google Spreadsheet API, PostgreSQL and internal REST APIs.
+* Rewrote the entire front end on the [AMP Framework](https://amp.dev/) to optimize mobile performance, page size and search ranking.
 
 ### [gspread-asyncio](https://pypi.org/project/gspread-asyncio/)
 * Wrote a Python asyncio wrapper library around the gspread Google Spreadsheet API library.
@@ -32,6 +33,10 @@
 
 ### [CLT Pet Watch](https://github.com/dgilman/petwatch)
 * Implemented a web scraper for Charlotte-area animal shelters that tweets the newest pets in shelters. Used the Python, lxml and SQLite3 technologies.
+
+### [SCOTUSwars](https://scotuswars.gilslotd.com/)
+* SCOTUSwars is an interactive exploration of Supreme Court cases states have filed against one another.
+* Implemented in Python and plain JavaScript.
 
 ### [py-wikimarkup](https://github.com/dgilman/py-wikimarkup)
 * Co-maintainer. Did ongoing maintenance on the library including the Python 2 to 3 transition.
