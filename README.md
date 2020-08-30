@@ -70,4 +70,5 @@
 
 ## Miscellaneous work
 * Organizer for the monthly, in-person [Python meetup group](https://www.meetup.com/python-charlotte/) in Charlotte, NC
+* Contributed a [bug fix](https://commitfest.postgresql.org/28/2568/) to PostgreSQL's pg\_restore utility.
 * Moved some [number crunching](https://github.com/dgilman/pandas_stats) over to the Python Pandas library.
