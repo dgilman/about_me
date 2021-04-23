@@ -6,7 +6,7 @@
 * Implemented the entire website. Used the Flask web framework, PostgreSQL database, lxml XML/HTML parser and GraphViz technologies.
 * Implemented a novel content generation system that gives SEO-friendly, textual content to all pages.
 * Implemented internal SEO best practices over the entire website and designed an internal SEO style guide.
-* Implemented a spreadsheet-oriented data collection and review system built on a homemade application framework on top of Python's asyncio library. Wrote asyncio wrappers for the Google Spreadsheet API, PostgreSQL and internal REST APIs.
+* Implemented a spreadsheet-oriented data collection and review system built on a homemade application framework on top of Python's asyncio library. Wrote asyncio wrappers for the [Google Spreadsheet API](https://github.com/dgilman/gspread_asyncio), PostgreSQL and internal REST APIs.
 * Rewrote the entire front end on the [AMP Framework](https://amp.dev/) to optimize mobile performance, page size and search ranking.
 
 ### [gspread-asyncio](https://pypi.org/project/gspread-asyncio/)
@@ -33,6 +33,9 @@
 
 ### [CLT Pet Watch](https://github.com/dgilman/petwatch)
 * Implemented a web scraper for Charlotte-area animal shelters that tweets the newest pets in shelters. Used the Python, lxml and SQLite3 technologies.
+
+### [xattr-compat](https://github.com/dgilman/xattr-compat)
+* Python library providing a cross-platform API for file extended attributes. Works on MacOS X, Linux and FreeBSD.
 
 ### [SCOTUSwars](https://scotuswars.gilslotd.com/)
 * SCOTUSwars is an interactive exploration of Supreme Court cases states have filed against one another.
@@ -71,4 +74,5 @@
 ## Miscellaneous work
 * Organizer for the monthly, in-person [Python meetup group](https://www.meetup.com/python-charlotte/) in Charlotte, NC
 * Contributed a [bug fix](https://commitfest.postgresql.org/28/2568/) to PostgreSQL's pg\_restore utility.
+* Removed six support from [astroid and pylint](https://github.com/PyCQA/astroid/pull/864)
 * Moved some [number crunching](https://github.com/dgilman/pandas_stats) over to the Python Pandas library.
