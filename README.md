@@ -66,6 +66,8 @@
 ## Packaging work
 #### [aacgain](https://github.com/dgilman/aacgain)
 * Converted the build system to CMake, got CI and CD working on Windows, MacOS X and Linux with TravisCI and Appveyor
+#### [ngx\_brotli](https://github.com/dgilman/nginx/releases)
+* Built Debian packages for ngx\_brotli in GitHub Actions and hosted on GitHub Releases
 #### [MacPorts](https://www.macports.org/)
 * Contributor and package maintainer to the MacPorts package manager.
 #### [netatalk-debian](https://github.com/dgilman/netatalk-debian)
