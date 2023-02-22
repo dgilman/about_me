@@ -53,6 +53,9 @@
 ### [Davy Crockett bot](https://github.com/dgilman/tmnt_wikipedia_bot)
 * Fork of the [Wikipedia page titles singable to the Teenage Mutant Ninja Turtles Twitter bot](https://twitter.com/wiki_tmnt) to tweet Wikipedia page titles matching the syllable stress pattern of the [theme song to the 1950s-era Davy Crockett TV series](https://www.youtube.com/watch?v=txcRQedoEyY).
 
+### [xattr-compat](https://github.com/dgilman/xattr-compat)
+* Python library that abstracts over xattr APIs on Linux, MacOS X, FreeBSD and NetBSD.
+
 ## Writing
 * [Lessons learned porting from SQL Server to SQLite](https://gilslotd.com/blog/lessons_learned_porting_sql_server_sqlite)
 * [Using SQLite with Python](https://dgilman.github.io/sqlite_python/) Presentation on SQLite internals and Python for the Charlotte Python Meetup
