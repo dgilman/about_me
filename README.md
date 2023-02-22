@@ -56,6 +56,7 @@
 ## Writing
 * [Lessons learned porting from SQL Server to SQLite](https://gilslotd.com/blog/lessons_learned_porting_sql_server_sqlite)
 * [Using SQLite with Python](https://dgilman.github.io/sqlite_python/) Presentation on SQLite internals and Python for the Charlotte Python Meetup
+* [Features I'd like in PostgreSQL](https://gilslotd.com/blog/features_id_postgresql) My wishlist for PostgreSQL - went [viral on Hacker News](https://news.ycombinator.com/item?id=34560332)
 * [My criticism of dotdrop, a dotfile management system](https://gilslotd.com/blog/my_criticism_dotdrop_dotfile_management_system)
 * Author of the Wikipedia articles on the [Ridgeway gold mine](https://en.wikipedia.org/wiki/Ridgeway_Mine) and [Runza sandwich](https://en.wikipedia.org/wiki/Runza)
 
