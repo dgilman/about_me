@@ -82,3 +82,9 @@
 * Contributed a [bug fix](https://commitfest.postgresql.org/28/2568/) to PostgreSQL's pg\_restore utility.
 * Removed six support from [astroid and pylint](https://github.com/PyCQA/astroid/pull/864)
 * Moved some [number crunching](https://github.com/dgilman/pandas_stats) over to the Python Pandas library.
+
+## GitHub profiles
+I prefer to keep a separate account for each employer to keep proprietary company code off of my personal machines. You should too!
+* [@dgilman](https://github.com/dgilman)
+* [@dgilmanTORQATA](https://github.com/dgilmanTORQATA)
+* [@dgilmanAIDENTIFIED](https://github.com/dgilmanAIDENTIFIED)
