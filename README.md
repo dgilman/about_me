@@ -60,6 +60,7 @@
 * [Lessons learned porting from SQL Server to SQLite](https://gilslotd.com/blog/lessons_learned_porting_sql_server_sqlite)
 * [Using SQLite with Python](https://dgilman.github.io/sqlite_python/) Presentation on SQLite internals and Python for the Charlotte Python Meetup
 * [Features I'd like in PostgreSQL](https://gilslotd.com/blog/features_id_postgresql) My wishlist for PostgreSQL - went [viral on Hacker News](https://news.ycombinator.com/item?id=34560332)
+* [Extending your Python web service with HTTP protocol features](https://github.com/dgilman/http_python), a presentation on HTTP content negotiation and conditional responses
 * [My criticism of dotdrop, a dotfile management system](https://gilslotd.com/blog/my_criticism_dotdrop_dotfile_management_system)
 * Author of the Wikipedia articles on the [Ridgeway gold mine](https://en.wikipedia.org/wiki/Ridgeway_Mine) and [Runza sandwich](https://en.wikipedia.org/wiki/Runza)
 
@@ -70,18 +71,24 @@
 ## Packaging work
 #### [aacgain](https://github.com/dgilman/aacgain)
 * Converted the build system to CMake, got CI and CD working on Windows, MacOS X and Linux with TravisCI and Appveyor
-#### [ngx\_brotli](https://github.com/dgilman/nginx/releases)
+#### [ngx\_brotli, support for Brotli encoding in nginx](https://gilslotd.com/blog/ngx_brotli_debian_bullseye_and_buster)
 * Built Debian packages for ngx\_brotli in GitHub Actions and hosted on GitHub Releases
 #### [MacPorts](https://www.macports.org/)
 * Contributor and package maintainer to the MacPorts package manager.
+* [Enabled curl's support for HTTP compression](https://github.com/macports/macports-base/pull/166). MacPorts actually pre-dates curl's support for HTTP compression and nobody thought to add it until I saw it was missing a decade+ later.
 #### [netatalk-debian](https://github.com/dgilman/netatalk-debian)
 * Got the Debian packaging building and publishing to GitHub via travis.ci.
 
 ## Miscellaneous work
 * Organizer for the monthly, in-person [Python meetup group](https://www.meetup.com/python-charlotte/) in Charlotte, NC
 * Contributed a [bug fix](https://commitfest.postgresql.org/28/2568/) to PostgreSQL's pg\_restore utility.
+* [Added the downvote comment function](https://github.com/dgilman/hn-android/commits/add-downvote) to an Android client for Hacker News. This was my one adventure with mobile development, I had the app running on my phone under the debugger on the PC, it was pretty cool.
 * Removed six support from [astroid and pylint](https://github.com/PyCQA/astroid/pull/864)
+* [Added WSGI support](https://github.com/dgilman/jsonrpclib/commits/wsgi) to the Python jsonrpclib library
 * Moved some [number crunching](https://github.com/dgilman/pandas_stats) over to the Python Pandas library.
+* [Various bug fixes to MenuMeters](https://github.com/yujitach/MenuMeters/pulls?q=is%3Apr+author%3Adgilman+is%3Aclosed), the MacOS X menubar system stats tool
+* [Fix monitor plug/unplug](https://sourceforge.net/p/puttysm/feature-requests/50/) in the Windows C++ app PuTTY Session Manager.
+* [Support for the Cisco Spark chat service](https://github.com/tcplugins/tcWebHooksTemplates/tree/master/webhook-templates/CiscoSparkTemplates) as the target of a TeamCity webhook notification
 
 ## GitHub profiles
 I prefer to keep a separate account for each employer to keep proprietary company code off of my personal machines. You should too!
